@@ -1,9 +1,357 @@
 [
     {
-        "name": "",
-        "sexe": "",
-        "level": "",
-        "image": ""
+        "name": "Abraham Lincoln",
+        "image": "Abraham_Lincoln.jpg",
+        "gender": "M"
     },
-
+    {
+        "name": "Albert Einstein",
+        "image": "Albert_Einstein.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Al Pacino",
+        "image": "Al_Pacino.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Ariana Grande",
+        "image": "Ariana_Grande.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Arnold Schwarzenegger",
+        "image": "Arnold_Schwarzenegger.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Aya Nakamura",
+        "image": "Aya_Nakamura.png",
+        "gender": "F"
+    },
+    {
+        "name": "Barack Obama",
+        "image": "Barack_Obama.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Beyoncé",
+        "image": "Beyoncé.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Bob Marley",
+        "image": "Bob_Marley.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Booba",
+        "image": "Booba.png",
+        "gender": "M"
+    },
+    {
+        "name": "Brad Pitt",
+        "image": "Brad_Pitt.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Britney Spears",
+        "image": "Britney_Spears.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Cardi B",
+        "image": "Cardi_B.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Céline Dion",
+        "image": "Céline_Dion.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Cesaria Evora",
+        "image": "Cesaria_Evora.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Charles DeGaulle",
+        "image": "Charles_De_Gaulle.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Charlie Chaplin",
+        "image": "Charlie_Chaplin.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Che Guevara",
+        "image": "Che_Guevara.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Chuck Norris",
+        "image": "Chuck_Norris.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Coluche",
+        "image": "Coluche.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Diana",
+        "image": "Diana.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Diana Ross",
+        "image": "Diana_Ross.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Diego Maradona",
+        "image": "Diego_Maradona.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Donald Trump",
+        "image": "Donald_Trump.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Edith Piaf",
+        "image": "Edith_Piaf.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Elisabeth II",
+        "image": "Elisabeth_II.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Elton John",
+        "image": "Elton_John.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Elvis Presley",
+        "image": "Elvis_Presley.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Emmanuel Macron",
+        "image": "Emmanuel_Macron.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Frank Sinatra",
+        "image": "Frank_Sinatra.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Frida Kahlo",
+        "image": "Frida_Kahlo.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Gandhi",
+        "image": "Gandhi.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Halle_Berry",
+        "image": "Halle_Berry.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Jacques Chirac",
+        "image": "Jacques_Chirac.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Jean Claude Van Damme",
+        "image": "Jean-Claude_Van-Damme.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Jimi Hendrix",
+        "image": "Jimi_Hendrix.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Joey Starr",
+        "image": "Joey_Starr.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "John F Kennedy",
+        "image": "John_F_Kennedy.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "John Lennon",
+        "image": "John_Lennon.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Johnny Hallyday",
+        "image": "Johnny_Hallyday.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Justin Bieber",
+        "image": "Justin_Bieber.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Kim Kardashian",
+        "image": "Kim_Kardashian.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Lady Gaga",
+        "image": "Lady_Gaga.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Louis Armstrong",
+        "image": "Louis_Armstrong.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Madonna",
+        "image": "Madonna.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Malala Yousafzai",
+        "image": "Malala_Yousafzai.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Malcom X",
+        "image": "Malcom_X.jpeg",
+        "gender": "M"
+    },
+    {
+        "name": "Marilyn Monroe",
+        "image": "Marilyn_Monroe.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Martin Luther King",
+        "image": "Martin_Luther_King.jpeg",
+        "gender": "M"
+    },
+    {
+        "name": "Michael Jackson",
+        "image": "Michael_Jackson.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Mohamed Ali",
+        "image": "Mohamed_Ali.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Naomi Campbell",
+        "image": "Naomi_Campbell.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Napoléon Bonaparte",
+        "image": "Napoléon_Bonaparte.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Nelson Mandela",
+        "image": "Nelson_Mandela.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Oprah Winfrey",
+        "image": "Oprah_Winfrey.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Pele",
+        "image": "Pele.jpeg",
+        "gender": "M"
+    },
+    {
+        "name": "Prince",
+        "image": "Prince.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Rachida Dati",
+        "image": "Rachida_Dati.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Sade",
+        "image": "Sade.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Serena Williams",
+        "image": "Serena_Williams.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Serge Gainsbourg",
+        "image": "Serge_Gainsbourg.jpeg",
+        "gender": "M"
+    },
+    {
+        "name": "Simone Veil",
+        "image": "Simone_Veil.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Spike Lee",
+        "image": "Spike_Lee.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Steve Jobs",
+        "image": "Steve_Jobs.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Taylor Swift",
+        "image": "Taylor_Swift.jpg",
+        "gender": "F"
+    },
+    {
+        "name": "Tupac Shakur",
+        "image": "Tupac_Shakur.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Vincent Van Gogh",
+        "image": "Vincent_Van-Gogh.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Vladirmir Poutine",
+        "image": "Vladirmir_Poutine.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Will Smith",
+        "image": "Will_Smith.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Yannick Noah",
+        "image": "Yannick_Noah.jpg",
+        "gender": "M"
+    },
+    {
+        "name": "Zinedine Zidane",
+        "image": "Zinedine_Zidane.jpg",
+        "gender": "M"
+    }
 ]
