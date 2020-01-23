@@ -1,357 +1,674 @@
-[
+[ 
     {
         "name": "Abraham Lincoln",
         "image": "Abraham_Lincoln.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "C"
     },
     {
         "name": "Albert Einstein",
         "image": "Albert_Einstein.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Al Pacino",
         "image": "Al_Pacino.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Ariana Grande",
         "image": "Ariana_Grande.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "D"
     },
     {
         "name": "Arnold Schwarzenegger",
         "image": "Arnold_Schwarzenegger.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "E"
     },
     {
         "name": "Aya Nakamura",
         "image": "Aya_Nakamura.png",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "F"
     },
     {
         "name": "Barack Obama",
         "image": "Barack_Obama.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "HH"
     },
     {
         "name": "Beyoncé",
         "image": "Beyoncé.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "H"
     },
     {
         "name": "Bob Marley",
         "image": "Bob_Marley.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "I"
     },
     {
         "name": "Booba",
         "image": "Booba.png",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "J"
     },
     {
         "name": "Brad Pitt",
         "image": "Brad_Pitt.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Britney Spears",
         "image": "Britney_Spears.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "K"
     },
     {
         "name": "Cardi B",
         "image": "Cardi_B.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Céline Dion",
         "image": "Céline_Dion.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Cesaria Evora",
         "image": "Cesaria_Evora.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "U"
     },
     {
         "name": "Charles DeGaulle",
         "image": "Charles_De_Gaulle.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "A"
     },
     {
         "name": "Charlie Chaplin",
         "image": "Charlie_Chaplin.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Che Guevara",
         "image": "Che_Guevara.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "O"
     },
     {
         "name": "Chuck Norris",
         "image": "Chuck_Norris.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "E"
     },
     {
         "name": "Coluche",
         "image": "Coluche.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Diana",
         "image": "Diana.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Diana Ross",
         "image": "Diana_Ross.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "FF"
     },
     {
         "name": "Diego Maradona",
         "image": "Diego_Maradona.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "O"
     },
     {
         "name": "Donald Trump",
         "image": "Donald_Trump.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "P"
     },
     {
         "name": "Edith Piaf",
         "image": "Edith_Piaf.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Elisabeth II",
         "image": "Elisabeth_II.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Elton John",
         "image": "Elton_John.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "P"
     },
     {
         "name": "Elvis Presley",
         "image": "Elvis_Presley.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": ""
     },
     {
         "name": "Emmanuel Macron",
         "image": "Emmanuel_Macron.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "N"
+    },
+    {
+        "name": "Evan Spiegel",
+        "image": "Evan_Spiegel.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "N"
     },
     {
         "name": "Frank Sinatra",
         "image": "Frank_Sinatra.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "T"
     },
     {
         "name": "Frida Kahlo",
         "image": "Frida_Kahlo.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Gandhi",
         "image": "Gandhi.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Halle_Berry",
         "image": "Halle_Berry.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "U"
     },
     {
         "name": "Jacques Chirac",
         "image": "Jacques_Chirac.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Jean Claude Van Damme",
         "image": "Jean-Claude_Van-Damme.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "V"
     },
     {
         "name": "Jimi Hendrix",
         "image": "Jimi_Hendrix.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "B"
     },
     {
         "name": "Joey Starr",
         "image": "Joey_Starr.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "B"
     },
     {
         "name": "John F Kennedy",
         "image": "John_F_Kennedy.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "John Lennon",
         "image": "John_Lennon.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Johnny Hallyday",
         "image": "Johnny_Hallyday.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "V"
     },
     {
         "name": "Justin Bieber",
         "image": "Justin_Bieber.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "W"
     },
     {
         "name": "Kim Kardashian",
         "image": "Kim_Kardashian.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "D"
     },
     {
         "name": "Lady Gaga",
         "image": "Lady_Gaga.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Louis Armstrong",
         "image": "Louis_Armstrong.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "X"
     },
     {
         "name": "Madonna",
         "image": "Madonna.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "Y"
     },
     {
         "name": "Malala Yousafzai",
         "image": "Malala_Yousafzai.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "Z"
     },
     {
         "name": "Malcom X",
         "image": "Malcom_X.jpeg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Marilyn Monroe",
         "image": "Marilyn_Monroe.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "Y"
     },
     {
         "name": "Martin Luther King",
         "image": "Martin_Luther_King.jpeg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "R"
     },
     {
         "name": "Michael Jackson",
         "image": "Michael_Jackson.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "EE"
     },
     {
         "name": "Mohamed Ali",
         "image": "Mohamed_Ali.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "R"
     },
     {
         "name": "Naomi Campbell",
         "image": "Naomi_Campbell.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Napoléon Bonaparte",
         "image": "Napoléon_Bonaparte.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "L"
     },
     {
         "name": "Nelson Mandela",
         "image": "Nelson_Mandela.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "X"
     },
     {
         "name": "Oprah Winfrey",
         "image": "Oprah_Winfrey.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Pele",
         "image": "Pele.jpeg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "HH"
     },
     {
         "name": "Prince",
         "image": "Prince.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "EE"
     },
     {
         "name": "Rachida Dati",
         "image": "Rachida_Dati.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "Z"
     },
     {
         "name": "Sade",
         "image": "Sade.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "H"
     },
     {
         "name": "Serena Williams",
         "image": "Serena_Williams.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "F"
     },
     {
         "name": "Serge Gainsbourg",
         "image": "Serge_Gainsbourg.jpeg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "M"
     },
     {
         "name": "Simone Veil",
         "image": "Simone_Veil.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "Q"
     },
     {
         "name": "Spike Lee",
         "image": "Spike_Lee.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "AA"
     },
     {
         "name": "Steve Jobs",
         "image": "Steve_Jobs.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "S"
     },
     {
         "name": "Taylor Swift",
         "image": "Taylor_Swift.jpg",
-        "gender": "F"
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "K"
     },
     {
         "name": "Tupac Shakur",
         "image": "Tupac_Shakur.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "AA"
     },
     {
         "name": "Vincent Van Gogh",
         "image": "Vincent_Van-Gogh.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     },
     {
         "name": "Vladirmir Poutine",
         "image": "Vladirmir_Poutine.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "CC"
     },
     {
         "name": "Will Smith",
         "image": "Will_Smith.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "J"
     },
     {
         "name": "Yannick Noah",
         "image": "Yannick_Noah.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "H"
     },
     {
         "name": "Zinedine Zidane",
         "image": "Zinedine_Zidane.jpg",
-        "gender": "M"
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "CC"
+    }
+    {
+        "name": "Albert Camus",
+        "image": "Albert_Camus.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "GG"
+    },
+    {
+        "name": "Alfred Hitchcock",
+        "image": "Alfred_Hitchcock.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "GG"
+    },
+    {
+        "name": "Angela Davis",
+        "image": "Angela_Davis.jpg",
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "FF"
+    },
+    {
+        "name": "Benito Mussolini",
+        "image": "Benito_Mussolini.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "A"
+    },
+    {
+        "name": "Bill Gates",
+        "image": "Bill_Gates.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "DD"
+    },
+    {
+        "name": "Brendan Eich",
+        "image": "Brendan_Eich.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "DD"
+    },
+    {
+        "name": "Catherine Deneuve",
+        "image": "Catherine_Deneuve.jpg",
+        "gender": "F",
+        "level": [2, 3],
+        "lookalike": ""
+    },
+    {
+        "name": "Christophe Colomb",
+        "image": "Christophe_Colomb.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "L"
+    },
+    {
+        "name": "Douglas Crockford",
+        "image": "Douglas_Crockford.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "S"
+    },
+    {
+        "name": "Georges Brassens",
+        "image": "Georges_Brassens.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "M"
+    },
+    {
+        "name": "Jack Dorsey",
+        "image": "Jack_Dorsey.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "W"
+    },
+    {
+        "name": "Jack London",
+        "image": "Jack_London.jpg",
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
+    },
+    {
+        "name": "JackMa",
+        "image": "Jack_Ma.jpg",
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
+    },
+    {
+        "name": "Jeff Bezos",
+        "image": "Jeff_Bezos.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "G"
+    },
+    {
+        "name": "Joseph Staline",
+        "image": "Joseph_Staline.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "II"
+    },
+    {
+        "name": "Karl Marx",
+        "image": "Karl_Marx.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "II"
+    },
+    {
+        "name": "Kevin Systrom",
+        "image": "Kevin_Systrom.jpg",
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
+    },
+    {
+        "name": "Louis Pasteur",
+        "image": "Louis_Pasteur.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "C"
+    },
+    {
+        "name": "Margaret Thatcher",
+        "image": "Margaret_Thatcher.png",
+        "gender": "F",
+        "level":[1, 2, 3],
+        "lookalike": "Q"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "image": "Mark_Zuckerberg.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "G"
+    },
+    {
+        "name": "Sigmund Freud",
+        "image": "Sigmund_Freud.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "BB"
+    },
+    {
+        "name": "Victor Hugo",
+        "image": "Victor_Hugo.jpg",
+        "gender": "M",
+        "level":[1, 2, 3],
+        "lookalike": "BB"
+    },
+    {
+        "name": "Voltaire",
+        "image": "Voltaire.jpg",
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
+    },
+    {
+        "name": "Xavier Niel",
+        "image": "Xavier_Niel.jpg",
+        "gender": "M",
+        "level": [2, 3],
+        "lookalike": ""
     }
 ]

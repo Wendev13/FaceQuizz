@@ -6,6 +6,11 @@
   font-style: normal;
 }
 
+mark.red {
+  color:#ff0000;
+  background: none;
+}
+
 html {
   font-family: "TEST";
 }
@@ -109,8 +114,8 @@ body {
 }
 
 .level-presentation {
-  display: none;
-  /*display: inline-flex;*/
+ /*display: none;*/
+  display: inline-flex;
   flex-direction: column;
   justify-content: space-around;
   align-content: center;
@@ -215,14 +220,17 @@ body {
 
 
 
-.start-container {
+.start-container,.progress-container {
   margin: 0;
   display: inline-flex;
   justify-content: space-between;
 }
 
+
+
 .timer-l1,.timer-l2,.timer-l3 {
   color: red;
+  font-weight: bolder;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -286,7 +294,7 @@ body {
 }
 
 .img-container-level-1 #left {
-    background-image: url(./images/Abraham_Lincoln.jpg);
+    /* background-image: url(./images/Abraham_Lincoln.jpg); */
     justify-content: center;
     background-repeat: no-repeat;
     background-size: 70%;
@@ -294,7 +302,7 @@ body {
 }
 
 .img-container-level-1 #right {
-    background-image: url(./images/Albert_Einstein.jpg);
+    /* background-image: url(./images/Albert_Einstein.jpg); */
     justify-content: center;
     background-repeat: no-repeat;
     background-size: 70%;
@@ -324,7 +332,7 @@ body {
 }
 
 .container-btn-l2 button{
-  font-family: "NEXT";
+  font-family: "TEST";
   background: none;
   text-align: center;
   border-radius: 5px;
@@ -366,7 +374,7 @@ body {
 }
 
 .answer-l3 {
-  font-family: "NEXT";
+  font-family: "TEST";
   font-weight: bold;
   background: none;
   text-align: center;
