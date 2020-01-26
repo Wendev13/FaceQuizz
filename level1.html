@@ -5,43 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Level 1</title>
-    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/7d9f56846e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/level1.css" />
   </head>
-  <header>
-    <h2 class="game-title">Face Quizz !!</h2>
-  </header>
   <body class="level-1-background">
-    <div class="level-presentation">
+    <header>
+      <h2 class="game-title">Face Quizz !!</h2>
+    </header>
+
+    <div class="level-presentation frame">
       <h2 class="game-level">LEVEL 1</h2>
       <h3>How to play ?</h3>
-      <p><mark class="red">Rules :</mark> When you find who is the personality mentionned above both
-         picture, just click on the right picture.</p>
-      <p><mark class="red">Countdown :</mark> Careful ! You have 10 secondes to anwser.</p>
+      <p>
+        <mark class="red">Rules :</mark> When you find who is the personality
+        mentionned above both picture, just click on the right picture.
+      </p>
+      <p>
+        <mark class="red">Countdown :</mark> Careful ! You have 10 secondes to
+        anwser.
+      </p>
       <button class="btn-next">NEXT</button>
     </div>
 
+
+  <div class="playingL1-container frame">
     <div class="play-level-1">
       <div class="start-container">
-        <h2 class="play1">Let's play level 1 !</h2><button class="btn-start-1">Go!</button>
+        <h2>Let's play level 1 !</h2>
+        <button class="btn-start-1">Go!</button>
       </div>
-    <div class="progress-container">
-      <div class="timer-l1">Timer :
-        <span id="sec" class="number">10</span><span> seconds</span>
-        </div> 
-      <div class="score-l1">Score : <span class="number">0</span></div>
-    </div>
- 
+
+      <div class="progress-container">
+        <div class="timer-l1">
+          Timer : <span id="sec" class="number">10</span><span> seconds</span>
+        </div>
+        <div class="score-l1">Score : <span class="number">0</span></div>
+      </div>
+
       <div>Pick the right face !</div>
+
       <div class="img-container-level-1">
         <button id="left"></button>
-        <button id="right"></button> 
+        <button id="right"></button>
       </div>
-      <div>
-        <div class="answer-l1">"Name"</div>
-      </div>
+
+      <p class="answer-l1">"Name"</p>
     </div>
-    
+
+    <div class="stars-container frame">
+      <i class="fas fa-star gold"></i>     
+      <i class="fas fa-star gold"></i>      
+      <i class="fas fa-star gold"></i>      
+    </div>
+  </div> 
+
   </body>
-  <script src="./base.js"></script>
-  <script src="./js/index.js"></script>
+  <script src="../base.json"></script>
+  <script src="../js/level1.js"></script>
 </html>

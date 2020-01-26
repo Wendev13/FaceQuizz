@@ -5,37 +5,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Level 2</title>
-    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/7d9f56846e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/level2.css" />
   </head>
   <header>
     <h2 class="game-title">Face Quizz !!</h2>
   </header>
   <body class="level-2-background">
-    <div class="level-presentation">
+    <div class="level-presentation frame">
       <h2 class="game-level">LEVEL 2</h2>
+
       <h3>How to play ?</h3>
-      <p>Rules</p>
-      <button class="next">NEXT</button>
+      <p>
+        <mark class="red">Rules :</mark> When you find who is the personality
+        on the picture, just click on the right name.
+      </p>
+      <p>
+        <mark class="red">Countdown :</mark> Careful ! You have 10 secondes to
+        anwser.
+      </p>
+
+      <button class="btn-next">NEXT</button>
     </div>
+
+  <div class="playingL2-container frame">
 
     <div class="play-level-2">
       <div class="start-container">
-        <h2 class="play2">Let's play level 2 !</h2><button class="btn-start-2">Go!</button>
+        <h2 class="play2">Let's play level 2 !</h2>
+        <button class="btn-start-2">Go!</button>
       </div>
+    <div class="progress-container">  
       <div class="timer-l2">Timer :
-        <span id="sec" class="number">15</span><span> seconds</span>
+        <span id="sec" class="number">10</span><span> seconds</span>
         </div>
+      <div class="score-l2">Score : <span class="number">0</span></div>
+    </div>  
       <div>Pick the right name !</div>
 
       <div class="img-container-level-2"></div>
       
       <div class="container-btn-l2">
-        <button class="btn-answer1-l2">"Name 1"</button>
-        <button class="btn-answer2-l2">"Name 2"</button>
-        <button class="btn-answer3-l2">"Name 3"</button>
-        <button class="btn-answer4-l2">"Name 4"</button>
+        <button class="btn-answer1-l2"></button>
+        <button class="btn-answer2-l2"></button>
+        <button class="btn-answer3-l2"></button>
+        <button class="btn-answer4-l2"></button>
       </div>
-
     </div>
+
+    <div class="stars-container frame">
+      <i class="fas fa-star gold"></i>     
+      <i class="fas fa-star gold"></i>      
+      <i class="fas fa-star gold"></i>      
+    </div>
+    
+  </div>
+    
   </body>
+  <script src="../base.json"></script>
+  <script src="../js/level2.js"></script>
 </html>
